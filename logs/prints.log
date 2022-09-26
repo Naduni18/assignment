@@ -1,0 +1,4 @@
+10:02:08.371 [main] INFO  com.naduni18.core.Base - browaer is open and load url
+10:02:15.480 [main] INFO  com.naduni18.core.Base - user wait for 5 seconds
+10:02:15.544 [main] INFO  com.naduni18.core.Base - user verify element p_successfor text The form was successfully submitted!
+10:02:15.996 [main] INFO  com.naduni18.core.Base - browser closed
